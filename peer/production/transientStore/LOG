@@ -1,0 +1,6 @@
+=============== Sep 2, 2018 (EDT) ===============
+02:57:39.981971 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:57:39.983608 db@open opening
+02:57:39.987292 version@stat F·[] S·0B[] Sc·[]
+02:57:39.988216 db@janitor F·2 G·0
+02:57:39.988237 db@open done T·4.613669ms
